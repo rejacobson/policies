@@ -30,7 +30,7 @@ If you violate any of the terms, we may terminate your account. That's a broad s
 1. You are solely responsible for properly canceling your account. We provide a simple no-questions-asked cancellation link on your account page. An email or phone request to cancel your account is not considered cancellation. If you need help cancelling your account, you can always [contact our Support team](support@grryno.com).
 2. Your account will be inaccessible from Grryno immediately upon cancellation. Within 30 days, all content will be permanently deleted from Grryno. We cannot recover this information once it has been permanently deleted.
 3. We have the right to suspend or terminate your account and refuse any and all current or future use of our services for any reason at any time. Suspension means you will not be able to access the account or any content in the account. Termination will furthermore result in the deletion of your account or your access to your account, and the forfeiture and relinquishment of all content in your account. We also reserve the right to refuse the use of the Grryno to anyone for any reason at any time. We have this clause because statistically speaking, out of hundreds of thousands of accounts, there will always be at least one doing something nefarious. There are some things we staunchly stand against and this clause is how we exercise that stance. For more details, see our [Use Restrictions policy](../abuse/index.md).
-5. Verbal, physical, written or other abuse (including threats of abuse or retribution) of Company employee or officer will result in immediate account termination.
+4. Verbal, physical, written or other abuse (including threats of abuse or retribution) of Company employee or officer will result in immediate account termination.
 
 ## Modifications to Prices
 
@@ -43,24 +43,22 @@ Sometimes we change the pricing structure for our products. When we do that, we 
 3. When you use our Services, you entrust us with your data. We take that trust to heart. You agree that Grryno may process your data as described in our [Privacy Policy](../privacy/index.md) and for no other purpose. We as humans can access your data for the following reasons:
   - **To help you with support requests you make.** We'll ask for express consent before accessing your account.
   - **On the rare occasions when an error occurs that stops an automated process partway through.** We get automated alerts when such errors occur. When we can fix the issue and restart automated processing without looking at any personal data, we do. In rare cases, we have to look at a minimum amount of personal data to fix the issue. In these rare cases, we aim to fix the root cause as much as possible to avoid the errors from reoccurring.
-  - **To safeguard Grryno.** We'll look at logs and metadata as part of our work to ensure the security of your data and Grryno as a whole. If necessary, we may also access accounts as part of an [abuse report investigation](../abuse/how-we-handle/index.md).
+  - **To safeguard Grryno.** We'll look at logs and metadata as part of our work to ensure the security of your data and Grryno as a whole.
   - **To the extent required by applicable law.** We only preserve or share customer data if compelled by a government authority with a legally binding order or proper request under the Stored Communications Act. If Grryno is audited by a tax authority, we only share the bare minimum billing information needed to complete the audit.
 
 4. We use third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run the Grryno.
 
 ## Copyright and Content Ownership
 
-1. The names, look, and feel of Grryno are copyright© to Grryno. All rights reserved. You may not duplicate, copy, or reuse any portion of the HTML, CSS, JavaScript, or visual design elements without express written permission from Grryno. You must request permission to use Grryno's logo for promotional purposes. Please [email us]({{ site.email_support }}) requests to use logos. We reserve the right to rescind this permission if you violate these Terms of Service.
-5. You agree not to reproduce, duplicate, copy, sell, resell or exploit any portion of Grryno, use of Grryno, or access to Grryno without the express written permission by Grryno.
-6. You must not modify another website so as to falsely imply that it is associated with Grryno.
+1. The names, look, and feel of Grryno are copyright© to Grryno. All rights reserved. You may not duplicate, copy, or reuse any portion of the HTML, CSS, JavaScript, or visual design elements without express written permission from Grryno. You must request permission to use Grryno's logo for promotional purposes. Please [email us](support@grryno.com) requests to use logos. We reserve the right to rescind this permission if you violate these Terms of Service.
+2. You agree not to reproduce, duplicate, copy, sell, resell or exploit any portion of Grryno, use of Grryno, or access to Grryno without the express written permission by Grryno.
+3. You must not modify another website so as to falsely imply that it is associated with Grryno.
 
 ## Features and Bugs
 
 We design our Services with care, based on our own experience and the experiences of customers who share their time and feedback. However, there is no such thing as a service that pleases everybody. We make no guarantees that our services will meet your specific requirements or expectations.
 
 We also test all of our features extensively before shipping them. As with any software, our services inevitably have some bugs. We track the bugs reported to us and work through priority ones, especially any related to security or privacy. Not all reported bugs will get fixed and we don't guarantee completely error-free services.
-
-## Services Adaptations and API Terms
 
 ## Liability
 
