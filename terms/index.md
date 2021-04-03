@@ -11,20 +11,20 @@ If you violate any of the terms, we may terminate your account. That's a broad s
 ## Account Terms
 
 1. You are responsible for maintaining the security of your account and password. Grryno cannot and will not be liable for any loss or damage from your failure to comply with this security obligation.
-2. You may not use Grryno for any purpose outlined in our [Use Restrictions policy](../abuse/index.md).
+2. You may not use Grryno for any purpose outlined in our [Use Restrictions policy](/abuse).
 3. You are responsible for all activity that occurs under your account. That includes usage by others who have access to your login credentials
 4. You must be a human. Accounts registered by “bots” or other automated methods are not permitted.
 
 ## Payment, Refunds, and Plan Changes
 
 1. Grryno is a pay-per-use service and as such requires a deposit of funds in order to run game servers.
-2. We process refunds according to our [Fair Refund policy](../refund/index.md).
+2. We process refunds according to our [Fair Refund policy](/refund).
 
 ## Cancellation and Termination
 
 1. You are solely responsible for properly canceling your account. We provide a simple no-questions-asked cancellation link on your account page. An email or phone request to cancel your account is not considered cancellation. If you need help cancelling your account, you can always [contact our Support team](support@grryno.com).
 2. Your account will be inaccessible from Grryno immediately upon cancellation. Within 30 days, all content will be permanently deleted from Grryno. We cannot recover this information once it has been permanently deleted.
-3. We have the right to suspend or terminate your account and refuse any and all current or future use of our services for any reason at any time. Suspension means you will not be able to access the account or any content in the account. Termination will furthermore result in the deletion of your account or your access to your account, and the forfeiture and relinquishment of all content in your account. We also reserve the right to refuse the use of the Grryno to anyone for any reason at any time. We have this clause because statistically speaking, out of hundreds of thousands of accounts, there will always be at least one doing something nefarious. There are some things we staunchly stand against and this clause is how we exercise that stance. For more details, see our [Use Restrictions policy](../abuse/index.md).
+3. We have the right to suspend or terminate your account and refuse any and all current or future use of our services for any reason at any time. Suspension means you will not be able to access the account or any content in the account. Termination will furthermore result in the deletion of your account or your access to your account, and the forfeiture and relinquishment of all content in your account. We also reserve the right to refuse the use of the Grryno to anyone for any reason at any time. We have this clause because statistically speaking, out of hundreds of thousands of accounts, there will always be at least one doing something nefarious. There are some things we staunchly stand against and this clause is how we exercise that stance. For more details, see our [Use Restrictions policy](/abuse).
 4. Verbal, physical, written or other abuse (including threats of abuse or retribution) of Company employee or officer will result in immediate account termination.
 
 ## Modifications to Prices
@@ -35,7 +35,7 @@ Sometimes we change the pricing structure for our products. When we do that, we 
 
 1. Your use of the Services is at your sole risk. We provide these Services on an “as is” and “as available” basis. But do take uptime of our applications seriously.
 2. We take many measures to protect and secure your data through backups and redundancies, and encryption. We enforce encryption for data transmission from the public Internet.
-3. When you use our Services, you entrust us with your data. We take that trust to heart. You agree that Grryno may process your data as described in our [Privacy Policy](../privacy/index.md) and for no other purpose. We as humans can access your data for the following reasons:
+3. When you use our Services, you entrust us with your data. We take that trust to heart. You agree that Grryno may process your data as described in our [Privacy Policy](/privacy) and for no other purpose. We as humans can access your data for the following reasons:
   - **To help you with support requests you make.** We'll ask for express consent before accessing your account.
   - **On the rare occasions when an error occurs that stops an automated process partway through.** We get automated alerts when such errors occur. When we can fix the issue and restart automated processing without looking at any personal data, we do. In rare cases, we have to look at a minimum amount of personal data to fix the issue. In these rare cases, we aim to fix the root cause as much as possible to avoid the errors from reoccurring.
   - **To safeguard Grryno.** We'll look at logs and metadata as part of our work to ensure the security of your data and Grryno as a whole.
