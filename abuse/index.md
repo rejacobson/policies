@@ -1,8 +1,3 @@
----
-title: Grryno Restricted Use Policy
-description: It is not okay to use Grryno for these restricted purposes.
----
-
 # Use Restrictions
 
 *Last updated: April 3, 2021*

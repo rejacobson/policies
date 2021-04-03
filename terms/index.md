@@ -1,8 +1,3 @@
----
-title: Terms of Service
-description: All the terms that you agree to when you sign up with Grryno.
----
-
 # Terms of Service
 
 *Last updated: April 3, 2021*
